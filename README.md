@@ -39,6 +39,6 @@ No build tools or server required — it’s a pure front-end project.
 ---
 
 ## 🙌 Credits
-Created with ❤️ by [Your Name](https://github.com/Raghunandan0)
+Created with ❤️ by [Raghunandan](https://github.com/Raghunandan0)
 
 
